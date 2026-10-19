@@ -1,0 +1,14 @@
+Project: Our project will use data from the FDA’s openFDA Drug Adverse Event API (collected in Python via requests, 999 reports) to study 
+adverse drug events (ADE's). ADE's cause over 1.5 million emergency-department visits a year in the U.S., and a large majority affect 
+older adults who take more medications. We will examine how patient and medication characteristics (age, sex, number of drugs, and 
+number of reported reactions) relate to whether a report is classified as serious versus non-serious. We also plan to build a 
+classification model to predict whether a report is serious, with the goal of identifying patterns that could help with 
+drug-safety monitoring.
+
+Membership Contribution Plan for Proof of Concept (Project Phase II): 
+- Reyna: Will express the central motivation, explain two key questions, and gives a summary of the data processing pipeline. 
+Additionally, will obtain and clean the data source as well as discuss potential ethical implications of the data and using ML to analyze it.
+- Lea: Will build at least two visualzations from the data to answer the key questions. Will ensure these visualizations communicate 
+information effectively and are distinct from each other.
+- Isaac: Will develop two functions that will allow for analysis from a ML model. Will explain why these functions will be useful in 
+analyzing the ML model of predicting whether a report is serious based on the patient and medication characteristics involved.
